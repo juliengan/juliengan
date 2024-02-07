@@ -1,14 +1,17 @@
-- 👋 Hi, I’m @juliengan, student in apprenticeship in Efrei Paris in last year of Master degree in Big Data & Machine Learning and working for Vinci Energies
+- 👋 Hi, I’m @juliengan, Data Scientist working in Vinci Energies
 
-- 👀 I’m interested in Big Bata, Machine Learning, Data engineering
+- 👀 I’m an expert in Big Bata, Machine Learning, Data engineering
 
-- 🌱 I’m currently perfectioning my skills in :
+- 🌱 My skills :
   - <b>Big data frameworks, 
   - Data Engineering (Scala, Kafka, Spark), 
-  - Digital tranformation, 
-  - Data Lakes & Data Integration, 
+  - Data Lakes & Data Integration (Talend, Azure Machine Learning), 
   - Cloud for Big Data (Azure), 
-  - Deep Learning</b>
+  - Deep Learning (Auto-encoders)
+  - LLM and vector stores: Azure AI Search, OpenAI, Mixtral
+  - Web development (NodeJS, Angular)
+  - SQL (PL-SQL, functions, triggers)
+  - NoSQL (Cassandra, Neo4J, MongoDB)</b>
 
 - 📫 How to reach me : 
   -  julie.ngan@efrei.net
